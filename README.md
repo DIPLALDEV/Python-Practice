@@ -22,30 +22,30 @@
 ## PROBLEMS RELATED TO PYTHON
 
 # Beginner Problems
-Reverse a number
-Check palindrome
-Fibonacci series
-Count vowels in a string
-Find largest of three numbers
-Sum of digits
+Reverse a number/
+Check palindrome/
+Fibonacci series/
+Count vowels in a string/
+Find largest of three numbers/
+Sum of digits/
 Factorial (loop + recursion)
 
 
 # Intermediate Problems
-Anagram checker
-Remove duplicates from list
-Find second largest number
-Word frequency counter
-Binary search
-Matrix addition
-Prime number sieve
+Anagram checker/
+Remove duplicates from list/
+Find second largest number/
+Word frequency counter/
+Binary search/
+Matrix addition/
+Prime number sieve/
 
 
 # Advanced Problems
-LRU Cache
-LonGest substring without repeating characters
-Dijkstra’s algorithm
-Merge intervals
-Knapsack problem
-Trie implementation
-Graph traversal (BFS/DFS)
+LRU Cache/
+LonGest substring without repeating characters/
+Dijkstra’s algorithm/
+Merge intervals/
+Knapsack problem/
+Trie implementation/
+Graph traversal (BFS/DFS)/
