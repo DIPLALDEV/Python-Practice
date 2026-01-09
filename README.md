@@ -1,20 +1,21 @@
 1. HackerRank (Beginner → Intermediate) ⭐
 🔗 https://www.hackerrank.com/domains/python
 
+Solving Python Problems
 
-2. LeetCode (Data Structures & Algorithms) ⭐⭐
+
+3. LeetCode (Data Structures & Algorithms) ⭐⭐
 🔗 https://leetcode.com/problemset/
 
-
-3. Codeforces (Logic & Competitive Programming)
+5. Codeforces (Logic & Competitive Programming)
 🔗 https://codeforces.com/
 
 
-4. Codewars (Fun + Skill-Based)
+6. Codewars (Fun + Skill-Based)
 🔗 https://www.codewars.com/
 
 
-5. Project Euler (Math + Logic)
+7. Project Euler (Math + Logic)
 🔗 https://projecteuler.net/
 
 
